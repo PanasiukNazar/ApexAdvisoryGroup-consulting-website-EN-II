@@ -1434,7 +1434,7 @@ a:active.learn-btn {
 }
 
 .single-contact-btn:hover button.contact-btn {
-    color: #7370d8;
+    color: #7370d8 !important;
     background: #fff;
     border: 1px solid #7370d8;
 }
